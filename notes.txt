@@ -1,0 +1,43 @@
+API: application programming interface
+
+django app < api > application 
+
+cook/chef: backend engine (django)
+waiter : api
+customer : user
+
+# HTTP basics:
+
+GET : retrieve data
+POST : send/create data
+PUT/PATCH: update data
+DELETE : remove data -> soft/hard delete . orm
+status code : 
+200 : ok
+404 : not found 
+500 : server error
+
+JSON AND DICTIONARY 
+json : 
+DICTIONARY: native langauge/DICTIONARY
+
+1. json : lightweight 
+2. readabililty : key-value pair mapping
+
+
+
+API:
+
+django app.  <api>   xyz app
+
+             json
+DRF : 
+requests : used to send http requests from python to an api or websites 
+install : pip install requests
+import requests 
+
+requests.get()/,post()/.....
+
+
+
+
